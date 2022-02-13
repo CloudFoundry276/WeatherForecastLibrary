@@ -11,4 +11,4 @@ You have to provide city name or latitude and longitude as input alongwith apike
 
 To get weather forecast report of next 12 hours with time interval of 3 hours between report.
 
-Find library on https://pypi.org/project/hawamaan/ to use in your project.
+Find out our library on https://pypi.org/project/hawamaan/ to use in your project.
